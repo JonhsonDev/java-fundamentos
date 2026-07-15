@@ -57,7 +57,7 @@ Além de servir como material de consulta, este repositório faz parte do meu **
 - [ ] API de Datas
 - [ ] JDBC
 
-> Esta lista será atualizada conforme avanço nos estudos. Por se tratar de uma retomada dos estudos, alguns dos assuntos marcados não se encontrar no repositório por eu já ter o domínio, estou registrando a partir de onde retomei, mas os tópicos foram marcados.
+> Esta lista será atualizada conforme avanço nos estudos. Por se tratar de uma retomada dos estudos, alguns dos assuntos marcados não se encontrar no repositório por eu já ter o domínio, estou registrando e mantendo atualizado aqui o que de fato sigo estudando a partir do presente momento.
 
 ---
 
