@@ -1,6 +1,6 @@
 <div align="center">
 
-# ☕ Java DevDojo
+# ☕ Fundamentos da Linguagem Java
 
 ### Fundamentos da Linguagem Java
 
