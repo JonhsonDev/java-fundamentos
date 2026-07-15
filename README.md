@@ -71,19 +71,6 @@ Além de servir como material de consulta, este repositório faz parte do meu **
 
 ---
 
-# 📂 Organização do Projeto
-
-```text
-Fundamentos/
-│
-├── src/
-│   ├── arrays/
-│   └── ...
-│
-├── .gitignore
-└── README.md
-```
-
 Cada pacote representa um assunto estudado e contém exemplos práticos desenvolvidos durante o processo de aprendizagem.
 
 ---
