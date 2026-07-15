@@ -71,10 +71,6 @@ Além de servir como material de consulta, este repositório faz parte do meu **
 
 ---
 
-Cada pacote representa um assunto estudado e contém exemplos práticos desenvolvidos durante o processo de aprendizagem.
-
----
-
 # 📈 Evolução
 
 Este repositório está em **desenvolvimento contínuo**.
