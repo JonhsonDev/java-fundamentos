@@ -40,10 +40,10 @@ Além de servir como material de consulta, este repositório faz parte do meu **
 # 📚 Conteúdo
 
 - [x] Introdução
-- [ ] Variáveis e Tipos Primitivos
-- [ ] Operadores
-- [ ] Estruturas Condicionais
-- [ ] Laços de Repetição
+- [x] Variáveis e Tipos Primitivos
+- [x] Operadores
+- [x] Estruturas Condicionais
+- [x] Laços de Repetição
 - [ ] Arrays
 - [ ] Métodos
 - [ ] Orientação a Objetos
@@ -74,16 +74,10 @@ Além de servir como material de consulta, este repositório faz parte do meu **
 # 📂 Organização do Projeto
 
 ```text
-JavaDevDojo/
+Fundamentos/
 │
 ├── src/
-│   ├── introducao/
-│   ├── operadores/
-│   ├── estruturascondicionais/
-│   ├── lacosderepeticao/
 │   ├── arrays/
-│   ├── metodos/
-│   ├── orientacaoobjetos/
 │   └── ...
 │
 ├── .gitignore
